@@ -89,7 +89,7 @@ https://engineeringxpert.com/wp-content/uploads/2022/04/26.png
   
 
 ## STM 32 CUBE PROGRAM :
-
+```
 #include "main.h"
 
 void SystemClock_Config(void);
@@ -111,7 +111,7 @@ void HAL_GPIO_EXTI_Callback(uint16_t GPIO_Pin)
 	}
 }
 
-
+```
 ## Output screen shots of proteus  :
 
 ![Screenshot 2025-05-02 144349](https://github.com/user-attachments/assets/f60c8736-0141-4e09-a05d-edaf16c5c931)
